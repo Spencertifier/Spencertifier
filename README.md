@@ -1,33 +1,21 @@
-# 👋 Hello, I'm Spencer Stevens
+# 👋 Hello, I'm Spencer 
 
-Passionate programmer and aspiring AI enthusiast. Pursuing certifications in A+, Network+, Security+, and more. Interested in programming languages (C#, Python, JavaScript), AI, and project management.
-
-## 💡 What Drives Me
-
-Passion for using technology to alleviate global suffering and connect those in need with local resources and charitable organizations.
-
-## 📚 Learning Journey
-
-Currently in college, expanding knowledge of programming languages and technologies like C#, Python, JavaScript, SQL, React, Figma, and AI, including creating Large Language Model (LLM) applications.
-
-## 🌍 Global Philanthropy
-
-Interested in tracking and contributing to global philanthropy efforts aimed at reducing suffering worldwide.
+Passionate technologist aiming to make GO solutions that mobilize a generation to take action in bringing peace to the ends of the Earth. 
 
 ## 🚀 Current Projects
 
-Active in various projects using Microsoft Developer, GitHub, AI, Langchain, Pinecone, and SQL to create portfolio-worthy applications. Working on a multi-game arcade project.
+Gamifying Boots on the Ground Work for Gen-Z
+Currently working on an app to mobilize boots on the ground laborers to locate and pair suffering people with solutions to alleviate their suffering. The app UI is designed after Fortnite to encourage a movement of Gen-Z soldiers to go out and make a difference in this world by giving them UI they are already familiar with. 
 
-## 🌐 Connect with Me
-
-Building an online presence on platforms like X or Twitter, focusing on AI and global alleviation of suffering.
+War Room Global
+Currently working on a solution that creates 7foot x 5foot zipcode maps, lets the user strategically break the zipcode into 1000 home regions, then breaks those regions down into sections of 40 houses each. Once the software has helped the user chart out the 40 house sections, it turns those sections into printable section maps. 50 section maps work for 50 teams of 2 to go out and reach 40 houses each in one day. It takes about 1 hour for a team of 2 to reach 10 homes if they are fruitful. This solution is a mass outreach solution allowing teams to go out and pair every person and place with the solutions that alleviate suffering in their community. This is the paper simplified version of the Gamified Version.  
 
 ## 🏔️ Fun Fact
 
-Once conquered "Mount Baldy" in New Mexico, rewarded with a breathtaking panoramic view of rolling mountains.
+Once conquered the seemingly impossible hill, "Mount Baldy" in New Mexico, rewarded with a breathtaking panoramic view of rolling mountains for what seemed to be 111 miles.
 
 ## 🎯 Long-Term Goals
 
-Creating a map to track global philanthropic projects funded by successful programming endeavors using AI to make a positive impact on the world.
+Creating solutions that mobilize a generation to alleviate suffering and meet every person and place with the solutions in their best interest. 
 
-Feel free to reach out if you share similar interests or are interested in collaborating on projects. Let's code for a better world together!
+Feel free to reach out if you share similar interests or are interested in collaborating on projects. Let's code to empower a generation to fill the earth with peace.
