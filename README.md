@@ -6,7 +6,7 @@ Passionate technologist aiming to make GO solutions that mobilize a generation t
 
 [Gamifying Boots on the Ground Work for Gen-Z]
 
-Currently working on an app to mobilize boots on the ground laborers to locate and pair suffering people with solutions to alleviate their brokeness and encourage them to take ownership of this task (sustainability). The app UI is designed after Fortnite to encourage a movement of Gen-Z soldiers to go out and make a difference in this world by giving them UI they are already familiar with. 
+Currently working on an app to mobilize boots on the ground laborers to locate and pair suffering people with solutions to alleviate their brokeness and empower them to do the same (sustainability). The app UI is designed after Fortnite to encourage a movement of Gen-Z soldiers to go out and make a difference in this world by giving them UI they are already familiar with. 
 
 [War Room Global]
 
