@@ -1,16 +1,18 @@
-# 👋 Hello, I'm Spencer 
+# 👋 Hello, I'm 1040Conquest
 
 Passionate technologist aiming to make GO solutions that mobilize a generation to take action in bringing peace to the ends of the Earth. 
 
-## 🚀 Current Projects
+## 🚀 Current Projects (More in R&D coming soon)
 
-[Gamifying Boots on the Ground Work for Gen-Z]
+[WE-GO APP - Gamifying Boots on the Ground Work for Gen-Z]
 
-Currently working on an app to mobilize boots on the ground laborers to locate and pair suffering people with solutions to alleviate their brokeness and empower them to do the same (sustainability). The app UI is designed after Fortnite to encourage a movement of Gen-Z soldiers to go out and make a difference in this world by giving them UI they are already familiar with. 
+Currently working on an app, modelled after fortnite, to encourage the younger generation to GO and engage their community, empowering them to pair found suffering with solutions that bring peace. Giving them a clear target, training, tools, tracking, and teaming all within the app to empower them to reach their target TOGETHER! 
 
-[War Room Global]
+[War Room Global - Solutions to encourage people to make War Room's that declare war on suffering]
 
-Currently working on a solution that creates 7foot x 5foot zipcode maps, lets the user strategically break the zipcode into 1000 home regions, then breaks those regions down into sections of 40 houses each. Once the software has helped the user chart out the 40 house sections, it turns those sections into printable section maps. 50 section maps work for 50 teams of 2 to go out and reach 40 houses each in one day. It takes about 1 hour for a team of 2 to reach 10 homes if they are fruitful. This solution is a mass outreach solution allowing teams to go out and pair every person and place with the solutions that alleviate suffering in their community. This is the paper simplified version of the Gamified Version.  
+ZipCode Map Target + Tracking: Currently working on a solution that creates 7foot x 5foot zipcode maps. These maps can be placed in ones room. The software lets the user strategically break the zipcode into 1000 home regions (digital or physical regional tracking maps), then breaks those regional maps down into sections of 40 houses each. The sections are then added to a printable map template that labels each section map from A-Z (Example A-40). The user can then print the section maps and go reach the 40 houses and keep track of their progress. 50 section maps work for 50 teams of 2 to go out and reach 40 houses each in one day. It takes about 1 hour for a team of 2 to reach 10 homes if they are fruitful. This project has been tested, and it successfully allowed for 66 teams of 2 to reach 1298 homes in the Month of Decemeber 2023.
+Tools + Training (+ Resources): I have learned how to take tools and trainings that have proven successful and convert them into poster form that can also be hung on the wall next to the map allowing the War Room leader to have a clear plan on what they will be equipping their teamates to bring to each house to alleviate suffering.
+Teaming Map: I've created a teaming map that is a smaller portion of the zipcode map that shows the teams that are partnerting together to reach the zipcode target together. This helps there to be clear communication between the regional teams, and keep track of all the teams of 2 that are a part of each regional team, allowing . 
 
 ## 🏔️ Fun Fact
 
