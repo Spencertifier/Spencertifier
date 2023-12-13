@@ -20,6 +20,6 @@ Once conquered the seemingly impossible hill, "Mount Baldy" in New Mexico, rewar
 
 ## 🎯 Long-Term Goals
 
-Creating solutions that mobilize a generation to alleviate suffering and meet every person and place with the solutions in their best interest. 
+Creating solutions that mobilize a generation to alleviate suffering and meet every person and place with the solutions that bring peace on earth. 
 
 Feel free to reach out if you share similar interests or are interested in collaborating on projects. Let's code to empower a generation to fill the earth with peace.
