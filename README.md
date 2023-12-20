@@ -6,3 +6,5 @@ Creating solutions that alleviate suffering with Ai & Code.
 - Reverse Engineering
 - Teaming -> Tools -> Training -> Tracking -> Target
 - Zoning -> Sowing -> Growing -> Reaping -> Multiply (Reproducible)
+- Visioneering
+- Charity Empowerment
