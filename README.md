@@ -1,4 +1,4 @@
-Creating solutions that alleviate suffering with Ai & Code.
+Generating solutions that alleviate suffering with Ai & Code.
 **Ai Solutions for:**
 - Systems Engineering
 - Global Project Management
