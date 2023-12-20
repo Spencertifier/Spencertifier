@@ -8,3 +8,4 @@ Generating solutions that alleviate suffering with Ai & Code.
 - Zoning -> Sowing -> Growing -> Reaping -> Multiply (Reproducible)
 - Visioneering
 - Charity Empowerment
+- UI/UX Figma Design Paired with Backend to Ship Solutions
