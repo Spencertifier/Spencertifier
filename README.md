@@ -4,5 +4,5 @@ Creating solutions that alleviate suffering with Ai & Code.
 - Global Project Management
 - Portfolio Management
 - Reverse Engineering
-- Teaming -> Tools -> Training -> Tools -> Tracking -> Target
+- Teaming -> Tools -> Training -> Tracking -> Target
 - Zoning -> Sowing -> Growing -> Reaping -> Multiply (Reproducible)
