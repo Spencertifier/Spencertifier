@@ -1,5 +1,5 @@
-Generating solutions that alleviate suffering with Ai & Code.
-**Ai Solutions for:**
+Generating solutions that alleviate suffering with Code + AI.
+**Solutions for:**
 - Systems Engineering
 - Global Project Management
 - Portfolio Management
